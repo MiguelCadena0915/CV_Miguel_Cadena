@@ -1,29 +1,29 @@
-# CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Miguel Angel Chingate Cadena
+**Profesión:** _Gestion de Mercados
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [miguelangel.chingatecadena@gmail.com](mailto:miguelangel.chingatecadena@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/miguel-angel-chingate](www.linkedin.com/in/miguel-angel-chingate)
+
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **connet
+- Gestioné el inventario para optimizar la rotación de servicios y garantizar disponibilidad, implementé estrategias de marketing con promociones y ofertas especiales, brindé un servicio al cliente eficiente y coordiné con el equipo de ventas para mejorar la experiencia del cliente y el posicionamiento de la marca.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SUPER MERCADO HERMANITAS GARCIA
+- Encargado de caja mayor, punto de venta, manejo de personal y solicitud de pedidos, manejo de servicio al cliente para lograr el cumplimiento de la integridad.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio nacional de aprendizaje SENA
+** _(2023-2025)_
+- Tecnologo: Gestion de mercados
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad Empatia**
+- **Habilidad Adaptabilidad**
+- **Habilidad Trabajo en equipo**
 
 ---
 
