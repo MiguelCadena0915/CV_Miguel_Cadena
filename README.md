@@ -2,6 +2,8 @@
 
 ## Miguel Angel Chingate Cadena
 **Profesión:** _Gestion de Mercados
+##Perfil
+Soy tecnologo con amplia experiencia en servicio al cliente, gestión de pedidos y manejo de personal en puntos de venta, así como en el atencion efectiva  al cliente. Me destaco por la capacidad para trabajar en equipo, excelente desempeño laboral,   fluidez verbal y  atención  al detalle.  A traves  de mi experiencia he demostrado un cumplimiento constante de todas las funciones requeridas en mi trabajo, lo que me ha permitido mantener un alto nivel de satisfacción tanto para los clientes como para el equipo.
 
 ## 📞 Contacto
 - **Email:** [miguelangel.chingatecadena@gmail.com](mailto:miguelangel.chingatecadena@gmail.com)
@@ -26,49 +28,3 @@
 - **Habilidad Trabajo en equipo**
 
 ---
-
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
-
