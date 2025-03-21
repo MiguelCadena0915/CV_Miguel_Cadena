@@ -2,6 +2,7 @@
 
 ## Miguel Angel Chingate Cadena
 **Profesión:** _Gestion de Mercados
+
 ##Perfil
 Soy tecnologo con amplia experiencia en servicio al cliente, gestión de pedidos y manejo de personal en puntos de venta, así como en el atencion efectiva  al cliente. Me destaco por la capacidad para trabajar en equipo, excelente desempeño laboral,   fluidez verbal y  atención  al detalle.  A traves  de mi experiencia he demostrado un cumplimiento constante de todas las funciones requeridas en mi trabajo, lo que me ha permitido mantener un alto nivel de satisfacción tanto para los clientes como para el equipo.
 
